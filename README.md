@@ -16,6 +16,6 @@
 
 * [ROS Turtlebot](https://github.com/laphisboy/RL_fall)
 * [Math Problem Classification](https://github.com/laphisboy/NLP_MathProblem)
-* DACON Multi-label Classification Competition (top 7%)
+* DACON Multi-label Classification Competition (top 7% : team laphisboy) 
 
 ⭐️ From [StephenCha](https://github.com/StephenCha)
