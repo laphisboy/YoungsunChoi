@@ -14,8 +14,8 @@
 
 ##### Some of the projects I have worked on
 
-* ROS Turtlebot
-* Math Problem Classification
+* [ROS Turtlebot](https://github.com/laphisboy/RL_fall)
+* [Math Problem Classification](https://github.com/laphisboy/NLP_MathProblem)
 * DACON Multi-label Classification Competition (top 7%)
 
 ⭐️ From [StephenCha](https://github.com/StephenCha)
