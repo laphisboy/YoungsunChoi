@@ -7,20 +7,15 @@
 
 ##### Languages I use
 
-![C++](https://simpleicons.org/icons/cplusplus.svg)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-##### Some of the technologies I have worked with
+##### Some of the projects I have worked on
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
-
-##### Some of my favorite open source projects
-
-* Mediawiki
-* Nextcloud
-* JupyterLab
+* ROS Turtlebot
+* Math Problem Classification
+* DACON Multi-label Classification Competition (top 7%)
 
 ⭐️ From [StephenCha](https://github.com/StephenCha)
